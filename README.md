@@ -1,3 +1,29 @@
+## Phase-2-Code-Challenge-BotBattlr
+
+## Project Setup
+1. Create a new project folder
+2. Create a new GitHub repository.
+3. Regularly commit to the repository.
+
+## Requirements
+1. Text editor
+2. Node environment
+
+## Project Requirements
+As a user, I should be able to:
+
+1. See profiles of all bots rendered in BotCollection.
+2. Add an individual bot to my army by clicking on it. The selected bot should render in the YourBotArmy component. The bot can be enlisted only once. The bot does not disappear from the BotCollection.
+3. Release a bot from my army by clicking on it. The bot disappears from the YourBotArmy component.
+4. Discharge a bot from their service forever, by clicking the red button marked "x", which would delete the bot both from the backend and from the YourBotArmy on the frontend.
+
+## Licence: MIT
+MIT License
+
+## Author: James Ekasiba
+This project was created by James Ekasiba as the SA. 08 Phase-2-Code-Challenge: Bot Battlr.
+
+## Description
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
